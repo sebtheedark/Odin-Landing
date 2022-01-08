@@ -78,7 +78,7 @@ button{
     padding-bottom: 80px;
     padding-left: 80px;
     padding-right: 80px; 
-    background: #eee;
+    background: white;
     
 }
 .second-header{
@@ -105,4 +105,48 @@ button{
     border-color: #3882F6;
     border-style: solid;
     border-radius: 25px;
+}
+.under-text{
+    display: flex;
+    gap: 195px;  
+    justify-content: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.third-section{
+    padding-top: 20px;
+    padding-bottom: 80px;
+    padding-left: 80px;
+    padding-right: 80px;
+    background: E5E7EB;
+    display: flex;
+}
+.quote{
+    align-items: center;
+    justify-content: center;
+    padding: 80px
+}
+.large-text{
+    font-size: 36px;
+    padding-top: 60px;
+    padding-bottom: 20px;
+    font-style: italic;
+    color: #1F2937
+}
+.small-text{
+    text-align: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+.fourth-section{
+    display: flex; 
+    justify-content: center;
+    background: white;
+    padding: 100px; 
+}
+.center-place{
+    height: 150px;
+    width: 1000px;
+    background-color: #3882F6;
+    border-radius: 15px;
 }
