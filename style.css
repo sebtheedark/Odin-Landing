@@ -156,3 +156,12 @@ button{
     justify-content: center;
     align-items: center;
 }
+.final-section{
+    background: #1F2937;
+    padding: 55px;
+    display: flex; 
+    justify-content: center;
+}
+.footer{
+    color: #F9FAF8;
+}
